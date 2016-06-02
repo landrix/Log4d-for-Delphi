@@ -63,3 +63,31 @@ __history/
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
+
+# DUnit configuration
+dunit.ini
+Unittests.dproj
+
+# Free Pascal compiler-generated binaries (safe to delete)
+*.ppu
+*.compiled
+*.obj
+lib
+
+# Free Pascal history and backups
+backup
+*.bak
+*.or
+
+# Free Pascal local files (user-specific info)
+*.lps
+
+# Free Pascal (other)
+*.rsj
+*.ico
+*.res
+*.rst
+
+# Other
+*.log
+
